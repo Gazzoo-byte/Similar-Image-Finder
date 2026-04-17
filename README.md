@@ -1,6 +1,8 @@
 # Similar Image Finder
 
-A fast, GUI-based Python application that scans a directory for visually similar or duplicate images. Built with **PyQt6** and **qt-material**, it uses perceptual hashing to analyze visual similarity rather than relying on exact byte-for-byte matches. 
+Made entirely by Google Gemini, 100% certified farm fresh slop coded.
+
+A fast, GUI-based Python application that scans a directory for visually similar or duplicate images. Built with **PyQt6** and **qt-material**, it uses perceptual hashing to analyze visual similarity rather than relying on exact byte-for-byte matches.
 
 ## Features
 
