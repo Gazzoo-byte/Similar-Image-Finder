@@ -4,6 +4,8 @@ Made entirely by Google Gemini, 100% certified farm fresh slop coded.
 
 A GUI-based Python application that scans a directory for visually similar or duplicate images. Built with **PyQt6** and **qt-material**, it uses perceptual hashing to analyze visual similarity rather than relying on exact byte-for-byte matches.
 
+<img width="1269" height="732" alt="image" src="https://github.com/user-attachments/assets/1ee8fa71-3730-41d5-bd02-7b77a08d8686" />
+
 ## Features
 
 - **Visual Similarity Hashing:** Uses `imagehash` to find images that look similar, even if they have different resolutions, formats, or slight alterations.
